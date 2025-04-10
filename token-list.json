@@ -1,0 +1,16 @@
+{
+  "name": "Big Bacc Token List",
+  "logoURI": "https://raw.githubusercontent.com/YourGithubUsername/BigBaccToken/main/logo/bbt-logo.png",
+  "keywords": ["bigbacc", "burger", "bbt"],
+  "timestamp": "2025-04-10T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x16e7FF7C68Bb0dD0e811A7649BC14c23C4124fcb",
+      "symbol": "BBT",
+      "name": "Big Bacc Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/YourGithubUsername/BigBaccToken/main/logo/bbt-logo.png"
+    }
+  ]
+}
