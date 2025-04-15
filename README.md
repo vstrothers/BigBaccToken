@@ -52,7 +52,7 @@ Total Supply: 100,000,000 BBT
 - Website: [https://www.bigbaccburger.com](https://www.bigbaccburger.com)
 - Twitter: [https://twitter.com/bigbaccburger](https://twitter.com/bigbaccburger)
 - Instagram: [https://instagram.com/bigbaccburger](https://instagram.com/bigbaccburger)
-- Whitepaper: [View Whitepaper](Big Bacc Token (BBT) Whitepaper.pdf)  
+- Whitepaper: [View Whitepaper](./Big%20Bacc%20Token%20(BBT)%20Whitepaper.pdf)
 - Token Logo: [View Logo](./bbt-logo.png)
 
 ---
